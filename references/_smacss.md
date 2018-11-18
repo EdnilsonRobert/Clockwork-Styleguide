@@ -158,7 +158,7 @@ li > span {
 .is-active { }
 .has-child {}
 
-/* O uso é importante é permitido em classes específicas */
+/* O uso de !important é permitido em classes específicas */
 .is-hidden { display: none !important; }
 
 /* Classes podem ser substituídas por data-attributes */
