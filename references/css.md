@@ -22,7 +22,7 @@ De acordo com experts espalhados pelo mundo, as pessoas que desejam criar estilo
   - [ ] FUN
   - [ ] ITCSS
   - [ ] MCSS
-  - [ ] OOCSS - CSS orientado a objetos
+  - [x] [OOCSS - CSS orientado a objetos](_oocss.md)
   - [ ] RSCSS
   - [ ] SMACSS - Scalable e Modular Architecture for CSS
   <!-- - [ ] Functional CSS -->
