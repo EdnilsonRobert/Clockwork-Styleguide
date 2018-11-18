@@ -25,7 +25,7 @@ A biblioteca é fortemente influenciada por várias ideias e metodologias em bus
     - [ ] MCSS
     - [x] [OOCSS - CSS orientado a objetos](references/_oocss.md)
     - [ ] RSCSS
-    - [ ] SMACSS - Scalable e Modular Architecture for CSS
+    - [x] [SMACSS - Scalable e Modular Architecture for CSS](references/_smacss.md)
     <!-- - [ ] Functional CSS -->
 
 ---

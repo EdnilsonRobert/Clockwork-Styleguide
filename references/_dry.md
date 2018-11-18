@@ -24,8 +24,8 @@ Resumidamente, cada grupo deve ser definido para compartilhar propriedades. Um g
 DRY CSS se resume a três coisas:
 
   1. **Agrupar propriedades CSS reutilizáveis juntas.**
-    - Nunca repetir definições de estilos e propriedades se é possível evitar;
-    - Agrupar seletores com propriedades compartilhadas é melhor que definí-las separadamente.
+     - Nunca repetir definições de estilos e propriedades se é possível evitar;
+     - Agrupar seletores com propriedades compartilhadas é melhor que definí-las separadamente.
 
 ```css
 {
@@ -39,8 +39,8 @@ DRY CSS se resume a três coisas:
 ```
 
   2. **Nomear esses grupos logicamente.**
-    - Nomear os grupos com base em seu papel no design;
-    - Usar um nome em forma de ID no topo da lista e as classes abaixo.
+     - Nomear os grupos com base em seu papel no design;
+     - Usar um nome em forma de ID no topo da lista e as classes abaixo.
 
 ```css
 #MEDIUM-WHITE-BACKGROUND,
@@ -60,10 +60,10 @@ o código com as Developer Tools do navegador */
 ```
 
   3. **Adicionar os seletores ao vários grupos CSS.**
-    - A ideia geral é pensar em termos de padrões de estilo e agrupar as regras necessárias para criá-lo.
-    - Em seguida basta adicionar os seletores CSS que utilizarão o padrão criado.
-    - Quando um elemento precisa mudar seu estilo, a alteração é feita removendo sua classe correspondente de um grupo e movendo para outro.
-    - HTML não deveria ser modificado.
+     - A ideia geral é pensar em termos de padrões de estilo e agrupar as regras necessárias para criá-lo.
+     - Em seguida basta adicionar os seletores CSS que utilizarão o padrão criado.
+     - Quando um elemento precisa mudar seu estilo, a alteração é feita removendo sua classe correspondente de um grupo e movendo para outro.
+     - HTML não deveria ser modificado.
 
 ```css
 #MEDIUM-WHITE-BACKGROUND,
@@ -85,17 +85,6 @@ o código com as Developer Tools do navegador */
 }
 ```
 
-## Recomendações
-
-  - Utilizar seletores individuais apenas em exceções.
-  - Sempre se perguntar: "Por que isso não é parte um grupo?".
-  - Recomendação para separação de grupos:
-    - Estruturas
-    - Módulos
-    - Formas
-    - Texto
-    - Cores
-
 ## Benefícios
 
 Praticar DRY CSS significa fazer uso de algumas boas práticas de desenvolvimento.
@@ -112,6 +101,17 @@ Em adição, com DRY CSS não é necessário fazer alterações no HTML - apenas
 
   - A busca por seletores em um longo arquivo pode incomodar inicialmente.
   - Em projetos maiores a folha de estilos pode se tornar tão extensa a ponto da metodologia não fazer sentido.
+
+## Recomendações
+
+  - Utilizar seletores individuais apenas em exceções.
+  - Sempre se perguntar: "Por que isso não é parte um grupo?".
+  - Recomendação para separação de grupos:
+    - Estruturas
+    - Módulos
+    - Formas
+    - Texto
+    - Cores
 
 ## Exemplos
 
