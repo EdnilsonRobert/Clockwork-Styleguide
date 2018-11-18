@@ -18,15 +18,15 @@ A biblioteca é fortemente influenciada por várias ideias e metodologias em bus
     - [ ] AMCSS
     - [ ] Atomic CSS
     - [ ] BEM
-    - [ ] CSSOO - CSS orientado a objetos
-    - [ ] DRY CSS - Don't repeat yourself
+    - [x] [DRY CSS - Don't repeat yourself](references/_dry.md)
     - [ ] ECSS
     - [ ] FUN
-    <!-- - [ ] Functional CSS -->
     - [ ] ITCSS
     - [ ] MCSS
+    - [x] [OOCSS - CSS orientado a objetos](references/_oocss.md)
     - [ ] RSCSS
     - [ ] SMACSS - Scalable e Modular Architecture for CSS
+    <!-- - [ ] Functional CSS -->
 
 ---
 

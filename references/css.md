@@ -17,15 +17,15 @@ De acordo com experts espalhados pelo mundo, as pessoas que desejam criar estilo
   - [ ] AMCSS
   - [ ] Atomic CSS
   - [ ] BEM
-  - [ ] CSSOO - CSS orientado a objetos
-  - [ ] DRY CSS - Don't repeat yourself
+  - [x] [DRY CSS - Don't repeat yourself](_dry.md)
   - [ ] ECSS
   - [ ] FUN
-  <!-- - [ ] Functional CSS -->
   - [ ] ITCSS
   - [ ] MCSS
+  - [x] [OOCSS - CSS orientado a objetos](_oocss.md)
   - [ ] RSCSS
   - [ ] SMACSS - Scalable e Modular Architecture for CSS
+  <!-- - [ ] Functional CSS -->
 
 ---
 
