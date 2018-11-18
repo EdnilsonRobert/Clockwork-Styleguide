@@ -24,7 +24,7 @@ De acordo com experts espalhados pelo mundo, as pessoas que desejam criar estilo
   - [ ] MCSS
   - [x] [OOCSS - CSS orientado a objetos](_oocss.md)
   - [ ] RSCSS
-  - [ ] SMACSS - Scalable e Modular Architecture for CSS
+  - [x] [SMACSS - Scalable e Modular Architecture for CSS](_smacss.md)
   <!-- - [ ] Functional CSS -->
 
 ---
