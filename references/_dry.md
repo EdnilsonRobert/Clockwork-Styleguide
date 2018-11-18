@@ -85,17 +85,6 @@ o código com as Developer Tools do navegador */
 }
 ```
 
-## Recomendações
-
-  - Utilizar seletores individuais apenas em exceções.
-  - Sempre se perguntar: "Por que isso não é parte um grupo?".
-  - Recomendação para separação de grupos:
-    - Estruturas
-    - Módulos
-    - Formas
-    - Texto
-    - Cores
-
 ## Benefícios
 
 Praticar DRY CSS significa fazer uso de algumas boas práticas de desenvolvimento.
@@ -112,6 +101,17 @@ Em adição, com DRY CSS não é necessário fazer alterações no HTML - apenas
 
   - A busca por seletores em um longo arquivo pode incomodar inicialmente.
   - Em projetos maiores a folha de estilos pode se tornar tão extensa a ponto da metodologia não fazer sentido.
+
+## Recomendações
+
+  - Utilizar seletores individuais apenas em exceções.
+  - Sempre se perguntar: "Por que isso não é parte um grupo?".
+  - Recomendação para separação de grupos:
+    - Estruturas
+    - Módulos
+    - Formas
+    - Texto
+    - Cores
 
 ## Exemplos
 
